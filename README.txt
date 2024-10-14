@@ -13,7 +13,7 @@ I then proceeded to explain this model Locally using LIME.
 In assignment2_part2, I first removed the features from the data that were found to
 have no influence on prediction, and applied SP-LIME to explain the model globally.
 
-The Data used for this assignment is in the file EURUSD.csv.
+The Data used for this assignment is in the file EURUSD_RATES.csv.
 
 
 
@@ -24,7 +24,7 @@ assignment1_part1: https://colab.research.google.com/drive/1EDF0nbe-NqMv1FA0Dv_2
 
 assignment1_part2: https://colab.research.google.com/drive/1eKR5KsmCezurBJLB7u-ys_huW8eMHRCb?usp=sharing
 
-DATA(EURUSD): https://drive.google.com/file/d/1uC858KJ7-5IRIPXadUk6nBPZAPsFkZh7/view?usp=sharing
+EURUSD_RATES: https://drive.google.com/file/d/1uC858KJ7-5IRIPXadUk6nBPZAPsFkZh7/view?usp=sharing
 
 
 
