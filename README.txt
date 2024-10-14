@@ -17,5 +17,16 @@ The Data used for this assignment is in the file EURUSD.csv.
 
 
 
+In case the Notebooks in github went render to display the plots, you can access the assignment here:
+
+
+assignment1_part1: https://colab.research.google.com/drive/1EDF0nbe-NqMv1FA0Dv_23JnRUZ0CceDm?usp=sharing
+
+assignment1_part2: https://colab.research.google.com/drive/1eKR5KsmCezurBJLB7u-ys_huW8eMHRCb?usp=sharing
+
+DATA(EURUSD): https://drive.google.com/file/d/1uC858KJ7-5IRIPXadUk6nBPZAPsFkZh7/view?usp=sharing
+
+
+
 
 
